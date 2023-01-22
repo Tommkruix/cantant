@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "cantant-app",
+    "name": "MyTodoApp",
     "slug": "cantant-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -28,6 +28,13 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "MyTodoApp application for Cantant.",
+    "extra": {
+      "eas": {
+        "projectId": "8c40c7e9-7da7-4d1f-b469-195272af1b11"
+      }
+    },
+    "owner": "tommkruix"
   }
 }

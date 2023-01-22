@@ -1,0 +1,5 @@
+export default {
+  FONT_SIZE_LARGE: 22,
+  FONT_SIZE_MEDIUM: 18,
+  SEPARATOR_HEIGHT: 20,
+};
